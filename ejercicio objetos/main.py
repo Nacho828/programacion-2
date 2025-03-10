@@ -2,7 +2,7 @@ from Cliente import Cliente
 from Empresa import Empresa
 
 
-hector = Cliente(nombre="Hector", apellidos="Costa Guzman",
+hector = Cliente(nombre="Mario", apellidos="Costa Guzman",
 dni="11111111A")
 juan = Cliente("22222222B", "Juan", "Gonzalez Marquez")
 # Creo una empresa con los clientes iniciales
